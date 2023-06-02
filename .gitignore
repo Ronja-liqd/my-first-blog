@@ -3,7 +3,7 @@
 *~
 __pycache__
 
-' Env
+# Env
 .env
 myvenv/
 ronnyn/
